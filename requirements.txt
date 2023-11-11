@@ -1,0 +1,7 @@
+numpy
+tqdm
+InstructorEmbedding
+openai==0.28.1
+sentence_transformers
+matplotlib
+pandas
